@@ -8,20 +8,20 @@
 
 </p>
 <h2> 🛠 &nbsp;Tecnologias</h2>
-<h3>💻 &nbsp;Front-end:</h3>
+<h3>💻 &nbsp;Skills:</h3>
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+🐍 Python|💹 R|📓SQL|🧮Power BI|🔮Machine Learning|💡Data 
+
+![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=PYTHON)
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
+![POWERBI](https://img.shields.io/badge/-POWERBI-333333?style=flat&logo=POWERBI&logoColor=2D79C7)
+![MACHINE LEARNING](https://img.shields.io/badge/-MACHINELEARNING-333333?style=flat&logo=MACHINELEARNING)
+![DATA](https://img.shields.io/badge/-DATA-333333?style=flat&logo=DATA)
+
 
 <h3>⚙️ &nbsp;Back-end e Banco de Dados:</h3>
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
